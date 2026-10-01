@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: template-project
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,metrics

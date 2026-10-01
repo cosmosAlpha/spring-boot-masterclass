@@ -1,0 +1,25 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.jdev.productionready</groupId>
+    <artifactId>spring-boot-masterclass-52-weeks</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <properties>
+        <java.version>25</java.version>
+        <spring-boot.version>4.1.0</spring-boot.version>
+        <maven.compiler.source>25</maven.compiler.source>
+        <maven.compiler.target>25</maven.compiler.target>
+    </properties>
+
+    <modules>
+        <!-- Season 1 -->
+        <module>_template</module>
+        <module>q1-zero-config-dev-experience/01-testcontainers-setup</module>
+        <module>q1-zero-config-dev-experience/02-skaffold-hot-reload</module>
+        <!-- Add subsequent modules as they are created -->
+    </modules>
+</project>
