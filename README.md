@@ -1,6 +1,6 @@
 # 🚀 Production-Ready Spring Boot: Masterclass
 
-[![Java 21](https://img.shields.io/badge/Java-21-orange.svg)](https://openjdk.org/projects/jdk/21/)
+[![Java 21](https://img.shields.io/badge/Java-25-orange.svg)](https://openjdk.org/projects/jdk/25/)
 [![Spring Boot 3.x/4.x](https://img.shields.io/badge/Spring%20Boot-3.3%20%2F%204.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Docker](https://img.shields.io/badge/Docker-Enabled-blue.svg)](https://www.docker.com/)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-JDev%20Production%20Ready-red.svg)]([https://youtube.com](https://www.youtube.com/@jdev-prod-ready/videos))
